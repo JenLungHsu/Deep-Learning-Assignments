@@ -1,0 +1,62 @@
+Epoch 1/10
+----------
+
+epoch: 1 , train loss: 0.4470 , train acc: 0.0902 , train f1: 0.0746, train re: 0.0893, train pr: 0.0754
+
+epoch: 1 , val loss: 0.4348 , val acc: 0.1156 , val f1: 0.0822, val re: 0.1156, val pr: 0.0888
+Epoch 2/10
+----------
+
+epoch: 2 , train loss: 0.4156 , train acc: 0.1396 , train f1: 0.1199, train re: 0.1382, train pr: 0.1188
+
+epoch: 2 , val loss: 0.4361 , val acc: 0.1244 , val f1: 0.0941, val re: 0.1244, val pr: 0.0886
+Epoch 3/10
+----------
+
+epoch: 3 , train loss: 0.3990 , train acc: 0.1677 , train f1: 0.1491, train re: 0.1663, train pr: 0.1499
+
+epoch: 3 , val loss: 0.4576 , val acc: 0.1356 , val f1: 0.1131, val re: 0.1356, val pr: 0.1210
+Epoch 4/10
+----------
+
+epoch: 4 , train loss: 0.3893 , train acc: 0.1817 , train f1: 0.1631, train re: 0.1801, train pr: 0.1621
+
+epoch: 4 , val loss: 0.4102 , val acc: 0.1622 , val f1: 0.1407, val re: 0.1622, val pr: 0.1887
+Epoch 5/10
+----------
+
+epoch: 5 , train loss: 0.3810 , train acc: 0.1973 , train f1: 0.1791, train re: 0.1956, train pr: 0.1789
+
+epoch: 5 , val loss: 0.4082 , val acc: 0.1644 , val f1: 0.1382, val re: 0.1644, val pr: 0.1580
+Epoch 6/10
+----------
+
+epoch: 6 , train loss: 0.3666 , train acc: 0.2231 , train f1: 0.2048, train re: 0.2214, train pr: 0.2055
+
+epoch: 6 , val loss: 0.4045 , val acc: 0.2244 , val f1: 0.1967, val re: 0.2244, val pr: 0.2216
+Epoch 7/10
+----------
+
+epoch: 7 , train loss: 0.3625 , train acc: 0.2312 , train f1: 0.2129, train re: 0.2296, train pr: 0.2128
+
+epoch: 7 , val loss: 0.4353 , val acc: 0.2067 , val f1: 0.1857, val re: 0.2067, val pr: 0.1965
+Epoch 8/10
+----------
+
+epoch: 8 , train loss: 0.3595 , train acc: 0.2367 , train f1: 0.2196, train re: 0.2352, train pr: 0.2195
+
+epoch: 8 , val loss: 0.4100 , val acc: 0.2022 , val f1: 0.1731, val re: 0.2022, val pr: 0.1679
+Epoch 9/10
+----------
+
+epoch: 9 , train loss: 0.3570 , train acc: 0.2427 , train f1: 0.2255, train re: 0.2412, train pr: 0.2252
+
+epoch: 9 , val loss: 0.4103 , val acc: 0.2200 , val f1: 0.1920, val re: 0.2200, val pr: 0.1955
+Epoch 10/10
+----------
+
+epoch: 10 , train loss: 0.3550 , train acc: 0.2450 , train f1: 0.2283, train re: 0.2436, train pr: 0.2279
+
+epoch: 10 , val loss: 0.4106 , val acc: 0.2067 , val f1: 0.1886, val re: 0.2067, val pr: 0.2115
+
+Best val Acc: 0.2244
